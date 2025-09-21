@@ -21,7 +21,7 @@ body {
       rgba(0, 0, 0, 0.6),
       rgba(0, 0, 0, 0.6)
     ),
-    url(../icon\ tech\ flayer.jpg) no-repeat center / cover;
+    url(/Css/Class-11/flyer1.jpg) no-repeat center / cover;
   min-height: 100vh;
   width: 100%;
 }
